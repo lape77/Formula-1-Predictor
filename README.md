@@ -1,4 +1,4 @@
-# F1 Predictor v2 🏎️
+# F1 Predictor v2 🏎️ 
 
 A modular Python system for Formula 1 race-weekend predictions using multi-dimensional ELO ratings, tyre-degradation models, Monte Carlo simulation, and live FastF1 data.
 
